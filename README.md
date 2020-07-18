@@ -17,4 +17,4 @@
 #### Reach out connect with me through...
 - [Email](mailto:lucas.stranks.ca?subject=[GitHub]%20Connect)
 - [LinkedIn](https://www.linkedin.com/in/lithiumtoast)
-- Discord - lithiumtoast#0955
+- Discord - lithiumtoast#0001
