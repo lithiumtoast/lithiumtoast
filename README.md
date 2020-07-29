@@ -4,9 +4,9 @@
 
 #### I'm a self-taught (who isn't?), passionate software developer from Canada :canada: 
 
-#### I've started my dev journey at 11 years old with Visual Basic 6. Back then I realized I could build things with my mind like I was playing with lego :hammer:. Later during university, I would learn that better than lego, these things I made can bring value to other people's lives :star2:
+#### I've started my dev journey at 11 years old with Visual Basic 6. Back then I realized I could build things with my mind like I was playing with lego. Later during university, I would learn that better than lego, these things I made can bring value to other people's lives.
 
-#### Today I solve problems by building software solutions with my mind using an open-source developer platform (run time + libraries) called .NET with the C# programming language :rocket:
+#### Today I solve problems by building software solutions with my mind using an open-source developer platform (run time + libraries) called .NET with the C# programming language
 
 #### Here's to thinking about an idea and making it a digitized reality! :tada:
 
