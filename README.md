@@ -13,6 +13,6 @@ In the grand scheme of things, I'm interested in applying my knowledge to addres
 You can follow my personal work at: https://github.com/lithiumtoast/dev-log
 
 Reach out connect with me through...
-- [Email](mailto:lucas.stranks.ca?subject=[GitHub]%20Connect)
+- [Email](mailto:lustranks@gmail.com?subject=[GitHub]%20Connect)
 - [LinkedIn](https://www.linkedin.com/in/lithiumtoast)
 - Discord - lithiumtoast#0001
