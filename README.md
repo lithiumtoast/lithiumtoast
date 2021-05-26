@@ -10,8 +10,6 @@ Today, I follow the principles of [open-source way](https://www.theopensourceway
 
 In the grand scheme of things, I'm interested in applying my knowledge to address the social and economic development issues we face as a human collective. These include poverty, hunger, health, education, climate change, gender equality, water, sanitation, energy, urbanization, environment, and social justice. 
 
-You can follow my personal work at: https://github.com/lithiumtoast/dev-log
-
 Reach out connect with me through...
 - [Email](mailto:lustranks@gmail.com?subject=[GitHub]%20Connect)
 - [LinkedIn](https://www.linkedin.com/in/lithiumtoast)
