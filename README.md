@@ -15,4 +15,6 @@ Reach out connect with me through...
 - [LinkedIn](https://www.linkedin.com/in/lithiumtoast)
 - Discord - lithiumtoast#0001
 
+<p align="center">
 [![lithiumtoast's GitHub stats](https://github-readme-stats.vercel.app/api?username=lithiumtoast)](https://github.com/anuraghazra/github-readme-stats)
+</p>
