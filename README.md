@@ -16,5 +16,5 @@ Reach out connect with me through...
 - Discord - lithiumtoast#0001
 
 <p align="center">
-[![lithiumtoast's GitHub stats](https://github-readme-stats.vercel.app/api?username=lithiumtoast)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api?username=lithiumtoast)"/>
 </p>
