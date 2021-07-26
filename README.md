@@ -16,5 +16,5 @@ In the grand scheme of things, I'm interested in applying my knowledge to addres
 
 Reach out connect with me through...
 - [Email](mailto:lustranks@gmail.com?subject=[GitHub]%20Connect)
-- [LinkedIn](https://www.linkedin.com/in/lithiumtoast)
+- [LinkedIn](https://www.linkedin.com/in/lithiumtoast&show_icons=true&theme=dark)
 - Discord - lithiumtoast#0001
