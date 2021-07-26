@@ -14,3 +14,5 @@ Reach out connect with me through...
 - [Email](mailto:lustranks@gmail.com?subject=[GitHub]%20Connect)
 - [LinkedIn](https://www.linkedin.com/in/lithiumtoast)
 - Discord - lithiumtoast#0001
+
+[![lithiumtoast's GitHub stats](https://github-readme-stats.vercel.app/api?username=lithiumtoast)](https://github.com/anuraghazra/github-readme-stats)
