@@ -16,5 +16,5 @@ Reach out connect with me through...
 - Discord - lithiumtoast#0001
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lithiumtoast)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lithiumtoast"/>
 </p>
