@@ -5,7 +5,7 @@
 #### I'm a self-taught, passionate software developer from Canada :canada:
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lithiumtoast"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lithiumtoast&show_icons=true&theme=dark"/>
 </p>
 
 I've started my dev journey at 12 years old with Visual Basic 6 with an online open-source community called [Mirage Source](https://www.youtube.com/watch?v=z5JaByOWNcg) in 2005. This community was, one way or another, a [community of practice](https://en.wikipedia.org/wiki/Community_of_practice) around indie game development. The community had a huge impact on my beliefs, values, and self-actualization. Back then I realized I could build structures with my mind like I was playing with lego. Later during university, I would learn that better than lego, these structures I made can bring value to other people's lives in countless ways.
@@ -16,5 +16,5 @@ In the grand scheme of things, I'm interested in applying my knowledge to addres
 
 Reach out connect with me through...
 - [Email](mailto:lustranks@gmail.com?subject=[GitHub]%20Connect)
-- [LinkedIn](https://www.linkedin.com/in/lithiumtoast&show_icons=true&theme=dark)
+- [LinkedIn](https://www.linkedin.com/in/lithiumtoast)
 - Discord - lithiumtoast#0001
