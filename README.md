@@ -6,6 +6,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lithiumtoast&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lithiumtoast")
 </p>
 
 I've started my dev journey at 12 years old with Visual Basic 6 with an online open-source community called [Mirage Source](https://www.youtube.com/watch?v=z5JaByOWNcg) in 2005. This community was, one way or another, a [community of practice](https://en.wikipedia.org/wiki/Community_of_practice) around indie game development. The community had a huge impact on my beliefs, values, and self-actualization. Back then I realized I could build structures with my mind like I was playing with lego. Later during university, I would learn that better than lego, these structures I made can bring value to other people's lives in countless ways.
