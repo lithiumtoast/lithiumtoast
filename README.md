@@ -30,10 +30,6 @@ Today, I also follow the principles of [open-source way](https://www.theopensour
     <a href="https://github.com/lithiumtoast/sdl-cs">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lithiumtoast&repo=sdl-cs&theme=dark" />
     </a>
-    </br></br>
-    <a href="https://github.com/lithiumtoast/stb-cs">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lithiumtoast&repo=stb-cs&theme=dark" />
-    </a>
 </p>
 
 
