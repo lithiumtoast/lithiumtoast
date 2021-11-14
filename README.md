@@ -18,24 +18,6 @@ Today, in my spare time I have a focus on C# and C for low-level systems (lookin
     
 Today, I also follow the principles of [open-source way](https://www.theopensourceway.org) beyond just software. My GitHub account serves as the place where I share my ideas and solutions regarding my own personal entertainment, curisoity, and growth with the world. It's my hope that making my work free and public that you can find value in it as well.
 
-<p align="center">
-    <a href="https://github.com/lithiumtoast/c2cs">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lithiumtoast&repo=c2cs&theme=dark" />
-    </a>
-    </br></br>
-    <a href="https://github.com/lithiumtoast/sokol-cs">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lithiumtoast&repo=sokol-cs&theme=dark" />
-    </a>
-    </br></br>
-    <a href="https://github.com/lithiumtoast/sdl-cs">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lithiumtoast&repo=sdl-cs&theme=dark" />
-    </a>
-    <a href="https://github.com/lithiumtoast/flecs-cs">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lithiumtoast&repo=flecs-cs&theme=dark" />
-    </a>
-</p>
-
-
 In the grand scheme of things, I'm interested in applying my knowledge to address the social and economic development issues we face as a human collective. These include poverty, hunger, health, education, climate change, gender equality, water, sanitation, energy, urbanization, environment, and social justice. 
 
 Reach out connect with me through...
