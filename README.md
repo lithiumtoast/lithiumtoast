@@ -2,7 +2,7 @@
 
 ### My name is Lucas Girouard-Stranks, I go by the handle `lithiumtoast`
 
-#### I'm a self-taught, passionate software developer from Canada :canada:
+#### I'm a self-taught developer before getting a formal Computer Science education. I'm from and live in Canada :canada:
 
 <p align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lithiumtoast&show_icons=true&theme=dark&hide_rank=true"/>
