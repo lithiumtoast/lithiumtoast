@@ -16,7 +16,7 @@ Today, in my spare time I have a focus on C# and C for low-level systems (lookin
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lithiumtoast&theme=dark&langs_count=10&layout=compact")
 </p>
     
-Today, I try to follow the principles of [open-source way](https://www.theopensourceway.org) beyond just software. My GitHub account serves as the place where I share my ideas and solutions regarding my own personal entertainment, curisoity, and growth with the world. It's my hope that making my work free and public that you can find value in it as well.
+Today, I try to follow the principles of [open-source way](https://www.theopensourceway.org) beyond just software. My GitHub account serves as the place where I share my personal ideas and solutions in my free time regarding my own personal entertainment, curisoity, and growth with the world. It's my hope that making my work free and public that you can find value in it as well.
 
 In the grand scheme of things, I'm interested in applying my knowledge to address the social and economic development issues we face as a human collective. These include poverty, hunger, health, education, climate change, gender equality, water, sanitation, energy, urbanization, environment, and social justice. 
 
