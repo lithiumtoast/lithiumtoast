@@ -1,26 +1,27 @@
-### Hello there :wave:,
+# Hello there 👋
 
-### My name is Lucas Girouard-Stranks, I go by the handle `lithiumtoast`
+**I'm Lucas Girouard-Stranks**, known around here as `lithiumtoast`. I'm a self-taught developer equipped with a formal Computer Science education. Based in Canada 🇨🇦.
 
-#### I'm a self-taught developer before getting a formal Computer Science education. I'm from and live in Canada :canada:
+## 🔥 My Journey
 
-<p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lithiumtoast&show_icons=true&theme=dark&hide_rank=true"/>
-</p>
+My dev journey began at 12, reading and writing Visual Basic 6 in an online open-source community called [Mirage Source](https://www.youtube.com/watch?v=z5JaByOWNcg) back in around 2005. That community was, in its own way, a [community of practice](https://en.wikipedia.org/wiki/Community_of_practice) around indie game development and it had a huge influence on me.
 
-I've started my dev journey at 12 years old with Visual Basic 6 with an online open-source community called [Mirage Source](https://www.youtube.com/watch?v=z5JaByOWNcg) in 2005. This community was, one way or another, a [community of practice](https://en.wikipedia.org/wiki/Community_of_practice) around indie game development. The community had a huge impact on my beliefs, values, and self-actualization. Back then I realized I could build structures with my mind like I was playing with lego. Later during university, I would learn that better than lego, these structures I made can bring value to other people's lives in countless ways.
+It was there I discovered I could build structures with my mind, like playing with Lego. Later, during university, I learned something even better: these structures I build can bring value to other people's lives in countless ways.
 
-Today, in my spare time I have a focus on C# and C for low-level systems (looking into Zig), primarily for video games. This includes using [native ahead-of-time compilation](https://github.com/dotnet/designs/blob/main/accepted/2020/form-factors.md#ahead-of-time-aot-compilation) for .NET to get native libraries and executables which are small, fast, and highly performant.
+Steven Levy's *[Hackers: Heroes of the Computer Revolution](https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution)* later gave me language to what I'd felt all along: the **hands-on imperative**, the belief that you truly understand something only by building it yourself. That ethos has guided me ever since.
 
-<p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lithiumtoast&theme=dark&langs_count=10&layout=compact")
-</p>
-    
-Today, I try to follow the principles of [open-source way](https://www.theopensourceway.org) beyond just software. My GitHub account serves as the place where I share my personal ideas and solutions in my free time regarding my own personal entertainment, curisoity, and growth with the world. It's my hope that making my work free and public that you can find value in it as well.
+## 🛠️ What I Build
 
-In the grand scheme of things, I'm interested in applying my knowledge to address the social and economic development issues we face as a human collective. These include poverty, hunger, health, education, climate change, gender equality, water, sanitation, energy, urbanization, environment, and social justice. 
+Today, my focus is on **C# and C for low-level systems** (with an eye on Zig), primarily for video games. I'm particularly interested in [native ahead-of-time compilation](https://github.com/dotnet/designs/blob/main/accepted/2020/form-factors.md#ahead-of-time-aot-compilation) for .NET—building native libraries and executables that are small, fast, and highly performant.
 
-Reach out connect with me through...
+## 🌍 Why I'm Here
+
+I follow the principles of the [open source way](https://www.theopensourceway.org), not just for software, but as a way of being. This GitHub is where I share personal ideas and solutions born from curiosity, growth, and the simple joy of building. My hope is that by making my work free and public, you might find value in it too.
+
+In the grand scheme, I'm interested in applying what I know to the challenges we face as a human collective: poverty, hunger, health, education, climate change, gender equality, water, sanitation, energy, urbanization, environment, and social justice.
+
+## 📬 Reach Out
+
 - [Email](mailto:lustranks@gmail.com?subject=[GitHub]%20Connect)
 - [LinkedIn](https://www.linkedin.com/in/lithiumtoast)
-- Discord - `lithiumtoast`
+- Discord: `lithiumtoast`
