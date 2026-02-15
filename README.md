@@ -12,7 +12,7 @@ Steven Levy's *[Hackers: Heroes of the Computer Revolution](https://en.wikipedia
 
 ## 🛠️ What I Build
 
-Today, my focus is on **C# and C for low-level systems** (with an eye on Zig), primarily for video games. I'm particularly interested in [native ahead-of-time compilation](https://github.com/dotnet/designs/blob/main/accepted/2020/form-factors.md#ahead-of-time-aot-compilation) for .NET—building native libraries and executables that are small, fast, and highly performant.
+Today, my focus is on **C# and C for low-level systems** (with an eye on Zig) originally for video games. I'm particularly interested in [native ahead-of-time compilation](https://github.com/dotnet/designs/blob/main/accepted/2020/form-factors.md#ahead-of-time-aot-compilation) for .NET—building native libraries and executables that are small, fast, and highly performant. As I get older, my ideas are expanding into the bigger picture of taking this form factor into larger real world problems and solutions.
 
 ## 🌍 Why I'm Here
 
